@@ -1,4 +1,4 @@
-module github.com/vivekvag/Basic_Go/tree/main/SimpleBank/util
+module github.com/vivekvag/SimpleBank
 
 go 1.20
 

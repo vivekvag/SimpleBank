@@ -26,6 +26,7 @@ func RandomString(n int) string {
 		c := alphabet[rand.Intn(k)]
 		sb.WriteByte(c)
 	}
+	return sb.String()
 }
 
 // RandomOwner generates a random owner name
